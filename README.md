@@ -30,13 +30,4 @@ Estudiante de **Ingeniería en Sistemas de Información** (UTN-FRBA) y desarroll
 
 ### 📊 Actividad y Estadísticas
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanteMedici&theme=tokyo-night&hide_border=true&area=true)
-
-<br/>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanteMedici&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanteMedici&layout=compact&theme=tokyo-night&hide_border=true)
-
-<br/>
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DanteMedici&theme=tokyo-night&hide_border=true)
